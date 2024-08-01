@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado](https://github.com/LitziSanchez)
+[Proyecto Desplegado](https://portafolio-bootstrap-lyse.vercel.app/)
 
 ## Secciones de mi sitio
 * Presentacion

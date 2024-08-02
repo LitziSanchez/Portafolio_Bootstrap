@@ -9,7 +9,7 @@ background-color: #d4d4d4 !important;
     display: flex;
     justify-content: start;
     align-items: center;
-    background-image: url("bg.jpg");
+    background-image: url('bg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -22,10 +22,10 @@ background-color: #d4d4d4 !important;
     background-size: contain;
 }
 #proyecto-1 {
-    background-image: url('/img/p.jpeg');
+    background-image: url('p.jpg');
 }
 #proyecto-2 {
-    background-image: url('/img/p.jpeg');
+    background-image: url('p.jpg');
 }
 
 .text-shadow-1 { text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25); }
